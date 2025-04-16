@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+This repository is used to keep track of changes and updates I'm making for various work-related projects. It serves as a personal log and version-controlled space to document progress, test ideas, and maintain consistency across tasks.
+
+- I am mostly intereseted in:
+    - Workflow automation
+    - Spatial data analysis
+    - Image classification
 <!--
 **EE-Lucas-MN/EE-Lucas-MN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
